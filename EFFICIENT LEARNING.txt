@@ -1,0 +1,176 @@
+THE PRINCIPLES:
+	LONG-TERM LEARNING VS WINNING THE SYSTEM:
+		http://paulgraham.com/lesson.html
+
+	WHAT IS SUCCESS ?
+		everybody has a different idea/meaning of success
+		being an efficient learner, being smart is great
+			but you need the drive and persistence to really succeed, 
+				you need to work hard for what you want 
+					and the easy route is taken by those with no drive and persistence
+		to succeed you will need to take risks and make mistakes, 
+			you have to do the unconventional
+		those who succeed are the ones 
+			who take the path less traveled 
+				and who have a DRIVE and PERSISTANCE
+
+	THE OBSTACLE: Enjoy Obstacle -> Keep driving and persist
+	
+	THE DIP:
+		push enough to overcome obstacles but also known when the dip is here, when to turn around
+		"The Dip" by Seth Godin
+	
+	COMPOUND LEARNING:
+		inspired by compound interest
+			"Improve by 1% a day, and in 70 days you're twice as good." - Alan Weiss
+				the small changes that we make each day have compounding effects later on in our lives
+	
+	FAILURES DON'T COUNT: 
+		your failures don't count against you
+		you can fail hundred thousand millions of times, all that matters is where we're at our current state
+			the more failures we have, the more feedback we're going to get to improve
+
+	CHOICE VS CHORE: it must be, it's a choice not a chore to do something, learning must be a choice
+
+	IT'S ALL IN THE FRAME:
+		frames/contexts are what humans use to change perspectives
+		the idea of framing is all about 
+			moving from a beginner attitude into a beginner mindset,
+			having a beginner mindset instead of a beginner attitude
+		the aim of all these principles is to shift your focus/perspectives 
+			into what you can control instead of what you have no control over
+
+	PARETO PRINCIPLE (the 80/20 rule, the law of vital few):
+		 states that, for many events, 80% of the effects/results come from 20% of the causes
+
+	SKILL STACKING:
+		in "Mastery" by Robert Greene, 
+			he mentionned that there's 3 approaches when it comes to career strategy:
+				curiosity, (value learning above high salary) and skill stacking
+		the key with skill stacking is to have skills that work well together 
+			but are also enough varied to make you stand up
+		by example a programmer with communication/business skills 
+			is more valuable that just a simple really good programmer
+
+	HAPPINESS FACTORS:
+		happiness improves learning
+			example: work, good friend group/family, learning, sport
+
+	YOUR PRODUCTIVITY TIME:
+		find your productivity time and give yourself the permission to study when you feel the best
+
+	SELF LEARNING PARADIGM: it's all about having intrinsic motivation
+
+
+THE LIES:
+	Follow your passion:
+		"SO GOOD THEY CAN'T IGNORE YOU", Cal Newport
+			in this amazing book Carl advices that passion is simply overatted
+				just because you like doing something
+					doesn't mean it's what your work career needs to be 
+		
+		on the contrary, it's by learning valuable skill, getting better and better at something,
+			getting smarter, getting more and more recognition, 
+				having more people that recognize you as an expert
+		it's that act of self-improvment and self-recognition, 
+			it's what actually makes you enjoy your job, your skills, your career
+
+		so you don't need passion, passion can comes after by being master in your path
+			what you need is creativity, control and impact in your path
+
+		the craftsman mindset says:
+			instead of just following your passion, finding that perfect job, 
+				instead, work hard, be humble, learn valuable skill, 
+					combine different skills and get really really good, 
+						SO GOOD THAT THEY CAN'T IGNORE YOU 
+
+	You Can Avoid Risk:
+		successful person can't avoid risk 
+			(stress/obstacles/.. are unavoidable)
+				risks are challenges to look foward to
+
+	Trust This One Person:
+		no, on the contrary, the good thing to do is to form your own opinion that is unique to you based on multiple sources of information
+
+	10,000 Hours Rule:
+		no, on the contrary, it's all about learning efficiently versus learning hard
+
+
+THE PILLARS:
+	EVERYTHING IS A GAME:
+		everything is a game, 
+			like a character in a game, we evolve, we fail, 
+				and we re-try over and over until successful
+		
+		growth mindset vs fixed mindset: 'Mindset' Carol Dweck
+			growth mindset is the belief that intelligence can be developed, everything is trainable
+				a person with growth mindset faces obstacles, faces challenges
+		
+		(control over life: internal locus of control) vs (external locus of control)
+		 	locus of control is a psychology term 
+		 		that means what degree people believe that they have control over outcomes and events
+
+		 	people that have a strong locus, else called internal locus 
+		 		believe that they have a lot of control over their lives, 
+		 			believe that events in their lives derive from their own actions
+		 	somebody who have a low locus, else called external locus 
+		 		tend to blame factors outside of themselves
+
+		 AN EFFICIENT LEARNER HAS A GROWTH MINDSET (our brain adapt) AND INTERNAL LOCUS
+
+	FEYNMAN TECHNIQUE:
+		named after Richard Feynman, a famous physist nobel prize
+			who was not only renomwned for being extremely smart
+				but also for his ability to explain things to beginners
+
+		so the Feynman Technique says that if you really want to understand something, know a topic
+			you need to be able to teach it, explain it in a simple manner
+
+	TRUNK BASED KNOWLEDGE:
+		the trunk based knowledge is this idea that in order for us to be efficient learners
+			we must first start to learn by consolidating the fundamentals (the roots) 
+				before getting to the leafs (the trends, the details)
+
+	Efficiency Trumps Grit:
+		efficient learning isn't about being the absolute hardest worker
+			it's about being smart with your time, using the right methods (the right strategies)
+
+
+THE SCIENCE:
+	FOCUS vs DIFFUSE MODE
+	THE SCIENCE OF SLEEP
+	BRAIN TRAINING
+	THE SCIENCE OF FEEDBACK
+	PROCRASTINATION
+	LONG vs SHORT MEMORY
+	ACTIVE vs PASSIVE LEARNING
+	THE SCIENCE OF MOTIVATION
+	GOALS
+	IT PAYS TO NOT BE BUSY
+	CHUNKING
+	HOW TO SOLVE PROBLEMS
+	DELIBERATE PRACTICE
+	SPACED REPETITION
+	ENERGY SAVING WITH HABITS
+	BE ADVENTUROUS
+	BE BORED
+
+
+THE TECHNIQUES:
+	POMODORO TECHNIQUE
+	CHUNK THE SUBJECT
+	SPACED REPETITION REVISITED
+	DELIBERATE PRATICE
+	CREATE A ROADMAP
+	INTERLEAVING
+	EINSTELLUNG
+	IMPORTANCE OF COMMUNITY
+	HABITS REVISITED
+	SYSTEM vs GOALS
+	THE POWER OF SENSES
+	PARETO PRINCIPLE REVISITED
+	PARKINSON'S LAW
+	STAKES AND REWARD
+	CONCEPTS VS FACTS
+	TEST YOURSELF
+
